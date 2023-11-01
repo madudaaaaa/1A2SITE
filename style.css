@@ -1,17 +1,17 @@
 header{
-    background:#BBBBBB ;
+    background:rgb(238, 58, 58) ;
     padding: 20px 0;/* espaço em cima e em baixo do cabeçalho - espaçamento interno*/
 }
 .caxa{
     position:relative;/*menu demtro do caixa*/
     width: 940px;/*largura da caixa*/;
-    margin: 0 auto;
+    margin: 0 auto;relative
 }
 
 nav{
     position: absolute;
     top: 110px;
-    right: 0;
+    right: 283px;
 }
 nav li{
     display: inline;
@@ -23,4 +23,8 @@ nav a{
     font-weight: bold; /*fonte negrito*/
     font-size: 22px; /*tamanho da fonte*/
     text-decoration: none; /*retirar o sublinhado do texto*/
+}
+img { 
+    width: 100px;
+    height: 100px;
 }
