@@ -13,10 +13,12 @@ nav{
     top: 110px;
     right: 283px;
 }
+
 nav li{
     display: inline;
     margin: 0 0 0 15px;/*espaçamento interno*/
 }
+
 nav a{
     text-transform: uppercase; /*letras maiúsculas*/
     color: #000000; /*cor das letras pretas*/
@@ -24,7 +26,8 @@ nav a{
     font-size: 22px; /*tamanho da fonte*/
     text-decoration: none; /*retirar o sublinhado do texto*/
 }
+
 img { 
-    width: 100px;
+    width: 50px;
     height: 100px;
 }
